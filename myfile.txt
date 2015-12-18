@@ -1,4 +1,8 @@
 first string
 second string
 third string
-lol 
+lol
+last
+2
+1
+0
