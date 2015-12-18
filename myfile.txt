@@ -2,4 +2,7 @@ first string
 second string
 third string
 lol
-last 
+last
+2
+1
+0
