@@ -6,4 +6,8 @@ last
 2
 1
 0
+<<<<<<< HEAD
 newlol
+=======
+920
+>>>>>>> master
