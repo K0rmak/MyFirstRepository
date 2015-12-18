@@ -6,4 +6,12 @@ last
 2
 1
 0
+<<<<<<< HEAD
 920
+=======
+<<<<<<< HEAD
+newlol
+=======
+920
+>>>>>>> master
+>>>>>>> my-second-brach
